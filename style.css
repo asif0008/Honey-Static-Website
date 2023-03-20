@@ -275,7 +275,7 @@ section {
 
 .shop-content {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, auto));
+    grid-template-columns: repeat(auto-fit, minmax(260px, auto));
     gap: 2rem;
     align-items: center;
     margin-top: 4rem;
